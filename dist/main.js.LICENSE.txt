@@ -14,6 +14,4 @@ https://github.com/nodeca/pako/blob/main/LICENSE
 
 //!! to be conerted to Helper function
 
-//!!//!!debug(e);
-
 //!!TODO
