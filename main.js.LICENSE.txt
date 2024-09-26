@@ -19,5 +19,3 @@ https://github.com/nodeca/pako/blob/main/LICENSE
 //!!
 
 //!! assert(ref[0] === 12 || ref[0] === 13);
-
-//!!TODO
