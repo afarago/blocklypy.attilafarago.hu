@@ -195,3 +195,11 @@ a {
 #tabs-wrapper {
   width: 100%;
 }
+
+#preview-pycode,
+#preview-pseudocode {
+  font-family: 'Courier New', monospace;
+  width: 100%;
+  border: none;
+  white-space: pre;
+}
